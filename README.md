@@ -12,6 +12,9 @@
 
 ## IDE & Text Editor Extensions
 
+### Theme
+- [Catppuccin](https://catppuccin.com/) - Soothing pastel theme for the high-spirited!.
+
 ### AI
 
 - [GitHub Copilot](https://github.com/features/copilot) - Your AI pair programmer.
