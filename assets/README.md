@@ -2,7 +2,7 @@
 
 ## Source
 
-All operating system icons in this folder are sourced from [Iconscout](https://iconscout.com/free-icon-pack/logos-brands-2) and use a free license with attribution.
+All icons in this folder are sourced from [Iconscout](https://iconscout.com/free-icon-pack/logos-brands-2) and use a free license with attribution.
 
 ## Copyright
 
