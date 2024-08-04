@@ -2,12 +2,7 @@
 
 ## Source
 
-All operating system icons in this folder are sourced from [Icons8](https://icons8.com/icon/set/operating-systems/group-color).
-
-## Specifications
-
-- **Version:** Free
-- **Size:** 48x48 pixels
+All operating system icons in this folder are sourced from [Iconscout](https://iconscout.com/free-icon-pack/logos-brands-2) and use a free license with attribution.
 
 ## Copyright
 
