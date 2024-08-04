@@ -14,6 +14,7 @@
 
 ### Theme
 - [Catppuccin](https://catppuccin.com/) - Soothing pastel theme for the high-spirited!.
+- [Nord Theme](https://www.nordtheme.com/) - Created for the clean and uncluttered design pattern to achieve a optimal focus and readability for code syntax highlighting and UI components.
 
 ### AI
 

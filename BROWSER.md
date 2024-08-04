@@ -1,5 +1,10 @@
 ## Browser Extensions
 
+### Themes
+- [Atom Material Icon](https://chromewebstore.google.com/detail/atom-material-icons/pljfkbaipkidhmaljaaakibigbcmmpnc) - Atom Material Icons for Web (GitHub, BitBucket, Gitee, Azure
+  and GitLab)
+- [Catppuccin for GitHub File Explorer Icons](https://chromewebstore.google.com/detail/catppuccin-for-github-fil/lnjaiaapbakfhlbjenjkhffcdpoompki) - Soothing pastel icons for GitHub File Explorer
+
 ### Adblock
 
 - [AdGuard](https://adguard.com/) - Surf the Web ad-free and safely. Shield up!
@@ -11,8 +16,6 @@
 ### Workflow & Planning
 
 - [Browser Flow](https://browserflow.app/) - Save time by automating repetitive tasks in minutes
-- [Atom Material Icon](https://chromewebstore.google.com/detail/atom-material-icons/pljfkbaipkidhmaljaaakibigbcmmpnc) - Atom Material Icons for Web (GitHub, BitBucket, Gitee, Azure
-  and GitLab)
 
 ### Developer Tools
 
