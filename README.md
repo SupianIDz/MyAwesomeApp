@@ -21,6 +21,11 @@ My Awesome App is a repository that contains a list of great apps that are worth
     - [GoLand](https://www.jetbrains.com/go/) - The complete IDE crafted for Gophers. ![Linux] ![MacOS] ![Windows]
 - [Visual Studio Code](https://code.visualstudio.com/) - Lightweight, powerful source code editor. ![Linux] ![MacOS] ![Windows]
 
+## Debugger
+ - [Debugify](https://debugify.octopy.dev) - Your Debug Companion. ![Linux] ![MacOS] ![Windows]
+ - [Ray](https://myray.app/) - Understand and fix bugs faster. ![Linux] ![MacOS] ![Windows]
+ - [xRay](https://github.com/xRay-Log/xRay) - A modern, high-performance log management and comparison application. ![Linux] ![MacOS] ![Windows]
+ - [LaraDumps](https://github.com/laradumps/app) - LaraDumps is a friendly app designed to boost your Laravel PHP coding and debugging experience.  ![Linux] ![MacOS] ![Windows] 
 ## API Platform
 
 - [Apidog](https://apidog.com/) - REAL API Design-first Development Platform. ![Linux] ![MacOS] ![Windows]
@@ -32,6 +37,9 @@ My Awesome App is a repository that contains a list of great apps that are worth
 - [Docker](https://www.docker.com/) - Develop faster. Run anywhere. ![Linux] ![MacOS] ![Windows]
 - [OrbStack](https://orbstack.dev/) - Say goodbye to slow, clunky containers and VMs. ![MacOS]
 - [Multipass](https://canonical.com/multipass) - Get an instant Ubuntu VM with a single command. ![Linux] ![MacOS] ![Windows]
+- [Lazy Docker](https://github.com/jesseduffield/lazydocker) - The lazier way to manage everything docker  ![Linux] ![MacOS] ![Windows]
+
+
 
 ## Terminal
 
@@ -43,6 +51,10 @@ My Awesome App is a repository that contains a list of great apps that are worth
 ## Internet
 
 - [Cloudflare Warp](https://1.1.1.1/) - The free app that makes your Internet safer. ![Linux] ![MacOS] ![Windows]
+- [Cloudflared](https://github.com/cloudflare/cloudflared) - Cloudflare Tunnel client ![Linux] ![MacOS] ![Windows]
+
+## Monitoring
+- [Beszel](https://github.com/henrygd/beszel) - Lightweight server monitoring hub with historical data, docker stats, and alerts.  ![Linux] ![Docker]
 
 [Linux]: assets/linux.svg
 
@@ -51,3 +63,6 @@ My Awesome App is a repository that contains a list of great apps that are worth
 [Windows]: assets/windows.svg
 
 [Android]: assets/android.svg
+
+[Docker]: assets/docker.svg
+
