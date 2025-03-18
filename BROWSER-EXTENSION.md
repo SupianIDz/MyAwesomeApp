@@ -28,11 +28,13 @@
 
 ### Developer Tools
 
-- [Daily Dev](https://daily.dev/) - Get one personalized feed for all the knowledge you need as a developer.
-- [Wappalyzer](https://www.wappalyzer.com/) - Identify technology on websites
+- [Daily Dev](https://daily.dev/) - Get one personalized feed for all the knowledge you need as a developer. ![Chrome]
+- [Wappalyzer](https://www.wappalyzer.com/) - Identify technology on websites. ![Chrome]
+- [Responsive Viewer](https://chromewebstore.google.com/detail/responsive-viewer/inmopeiepgfljkpkidclfgbgbmfcennb) - Show multiple screens once, Responsive design tester. ![Chrome]
 - [Viewport Resizer](https://chromewebstore.google.com/detail/viewport-resizer-%E2%80%93-respon/kapnjjcfcncngkadhpmijlkblpibdcgm) - Responsive design testing tool to test any
   website’s responsiveness
-- [JSON Viewer](https://chrome.google.com/webstore/detail/json-viewer/gbmdgpbipfallnflgajpaliibnhdgobh) - View JSON documents in the browser
+- [JSON Viewer](https://chromewebstore.google.com/detail/json-viewer-chrome-extens/kggkmmjihpjangbkpcdidlhfbnnfaldn) - JSON Viewer, support tree view, formatted beautiful text view, a most beautiful and customizable JSON/JSONP highlighter. ![Chrome]
+- [JSON Discovery](https://chromewebstore.google.com/detail/jsondiscovery/pamhglogfolfbmlpnenhpeholpnlcclo) - Browser extension that changes the way you're viewing JSON. ![Chrome]
 
 [Edge]: assets/browsers/edge.svg
 
